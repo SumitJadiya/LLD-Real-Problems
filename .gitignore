@@ -24,3 +24,10 @@ log/
 .gradle/*
 target/
 _config.yml
+
+**/build/
+!src/**/build/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+.gradletasknamecache
