@@ -6,4 +6,4 @@
 
 ![](../../../../../../../../../../../../../var/folders/jj/k2hby8510r12ct672sxkk6lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_7I6d78/Screenshot 2023-11-25 at 6.01.00 PM.png)
 
-![](../../../../../../../../../../../../../var/folders/jj/k2hby8510r12ct672sxkk6lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_mbsAV1/Screenshot 2023-11-25 at 6.01.43 PM.png)
+<img width="591" alt="Screenshot 2023-11-25 at 6 09 43 PM" src="https://github.com/SumitJadiya/LLD-for-humans/assets/53819226/2fac16ba-1925-4b91-962a-396c7f2e41a3">
